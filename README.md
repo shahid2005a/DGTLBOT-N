@@ -52,6 +52,7 @@ cd DGTLBOT-N
 ```
 ```
 python Dgtlbotn.py
+```
 
 
 ## 📌 Contact Me  
