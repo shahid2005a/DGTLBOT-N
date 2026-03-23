@@ -1,3 +1,4 @@
+![logo](https://github.com/shahid2005a/DGTLBOT-N/blob/main/DGTLBOT-N.png)
 # DGTLBOT-N
 DGTLBOTN REPO
 # Advanced Telegram Contact Bot 🤖
@@ -23,27 +24,35 @@ Host repo
 ```
 pkg update && pkg upgrade -y
 
-pkg install python -y
 
-pip install --upgrade pyTelegramBotAPI 
+pkg install git python python-pip
+
+
+pkg install python -y
 
 
 pkg install nano
 
+
 pkg install git
 
-git clone https://github.com/shahid2005a/Dgtlbot.git
+
+pip install pyTelegramBotAPI psutil requests
 
 
-cd Dgtlbot
+git clone https://github.com/shahid2005a/DGTLBOT-N.git
+
+
+cd DGTLBOT-N
 
 ```
 
 ```
- nano Dgtlbot.py
+ nano Dgtlbotn.py
 ```
 ```
-python Dgtlbot.py
+python Dgtlbotn.py
+
 
 ## 📌 Contact Me  
 
